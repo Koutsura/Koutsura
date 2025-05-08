@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello, I'm Koutsura!<br>I'm a passionate Laravel Full Stack Web Developer with [X] years of experience building robust, scalable web applications. I specialize in the Laravel PHP framework and enjoy working across the entire development stack - from backend APIs to interactive frontends.
+👋 Hello, I'm Koutsura!<br>I'm a passionate Laravel Full Stack Web Developer with 2 years of experience building robust, scalable web applications. I specialize in the Laravel PHP framework and enjoy working across the entire development stack - from backend APIs to interactive frontends.
 
 
 # 💻 Tech Stack:
